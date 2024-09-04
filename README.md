@@ -2,7 +2,7 @@
 - 👀 I’m interested in IT 🖥, programming 💻, motorcycles 🏍 and sport 🏐⚽
 - 🌱 I’m currently learning JavaScript, Tailwind CSS and other Front-End stuff 🤓📱
 - 💞️ I’m looking to collaborate on frontend projects ✅
-- 📫 How to reach me 🤷‍♂️? 
+- 📫 How to reach me 🤷‍♂️?
       Mail 📧 kuba.pastucha@gmail.com  
       LinkedIn 🟦 https://pl.linkedin.com/in/jakub-pastucha-07ba53221
 
